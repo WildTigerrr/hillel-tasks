@@ -1,0 +1,3 @@
+Hey that's some text!
+And here're ignored symbols: . OR ,
+Also// other - ;
